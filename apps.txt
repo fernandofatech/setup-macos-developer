@@ -27,3 +27,7 @@ sequel-pro
 xcode
 netbeans
 macdown
+beekeeper-studio
+terminus
+github
+docker
