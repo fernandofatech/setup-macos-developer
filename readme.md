@@ -1,6 +1,6 @@
-# Mac Development Environment Setup
+# MacOs Development Environment Setup
 
-Welcome to the comprehensive guide for setting up your Mac for a seamless development experience. This repository contains all the necessary steps and scripts to get your environment ready, whether you're setting up a new machine or reconfiguring an existing one.
+Welcome to the comprehensive guide for setting up your MacOS for a seamless development experience. This repository contains all the necessary steps and scripts to get your environment ready, whether you're setting up a new machine or reconfiguring an existing one.
 
 ## Getting Started
 
