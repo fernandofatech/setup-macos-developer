@@ -69,7 +69,7 @@ Thank you for using this Mac Development Environment Setup guide. Happy coding!
 
 ## Credits
 
-This setup guide was created by [Your Name or GitHub Username]. I've compiled the steps and scripts that I find essential for a smooth and efficient developer workflow on macOS.
+This setup guide was created by [@fernandofatech]. I've compiled the steps and scripts that I find essential for a smooth and efficient developer workflow on macOS.
 
 ## Contributing
 
